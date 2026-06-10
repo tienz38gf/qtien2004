@@ -51,8 +51,7 @@
 * Link GitHub Pages:
   (Điền sau khi triển khai website lên GitHub Pages)
 
-Ví dụ:
-https://ten-tai-khoan.github.io/WebsiteDienThoai/
+https://github.com/tienz38gf/qtien2004.git
 
 ---
 
